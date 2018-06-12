@@ -26,8 +26,8 @@ Create a team within your ogranization to better manage large organizations and 
 
 ## Manage your account preferences and settings
 
-### Email Notifications
-Manage your email preferences to sign up for automatic notifications upon builds, distributions, and crashes. 
+### E-mail Notifications
+Manage your e-mail preferences to sign up for automatic notifications upon builds, distributions, and crashes. 
 
 ### Bug Tracker Integration
 Integrate bug trackers like Jira, Visual Studio Team Services (VSTS) and GitHub to stay informed when your app crashes.
